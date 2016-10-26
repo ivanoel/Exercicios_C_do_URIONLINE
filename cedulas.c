@@ -15,3 +15,4 @@ n -= cedulas[t] * (n / cedulas[t]);
 } while(cedulas[t++] != 1);
     return 0;
 }
+

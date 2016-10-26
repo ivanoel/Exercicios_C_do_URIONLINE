@@ -29,3 +29,4 @@ printf("Total: R$ %.2f\n",vt);
 
     return 0;
 }
+
